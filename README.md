@@ -9,5 +9,5 @@ This examples runs on [Firmware v3](https://github.com/epernia/firmware_v3) on E
 # Notes
 
 * Baudrate : 250kbps
-* Use putty or similar to hanlde escape sequences that allow to print colos in the terminal.
+* Use putty or similar to hanlde escape sequences that allow to print colors in the terminal.
 * Se the terminal character encoding to CP437
