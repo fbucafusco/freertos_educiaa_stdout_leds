@@ -10,4 +10,4 @@ This examples runs on [Firmware v3](https://github.com/epernia/firmware_v3) on E
 
 * Baudrate : 250kbps
 * Use putty or similar to hanlde escape sequences that allow to print colors in the terminal.
-* Se the terminal character encoding to CP437
+* Configure the terminal character encoding to CP437
